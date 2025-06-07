@@ -1,5 +1,5 @@
 # LS Pastry - Doces Artesanais 🍰  
-![Banner da loja](https://via.placeholder.com/1200x400/FA8597/FFFFFF?text=LS+Pastry+-+Doces+Artesanais)  
+![Banner da loja](Titulo.png)  
 > *(Substitua pela imagem do banner da sua loja)*
 
 ---
